@@ -8,9 +8,11 @@
   
   <ItemGroup>
     <PackageReference Include="Microsoft.NET.Test.Sdk" Version="17.11.1" />
-    <PackageReference Include="MongoSandbox7" Version="1.0.0" />
+    <PackageReference Include="MongoSandbox6" Version="1.0.0" />
     <PackageReference Include="NUnit" Version="4.2.2" />
     <PackageReference Include="NUnit3TestAdapter" Version="4.6.0" />
+    <PackageReference Include="Specflow" Version="3.9.74"/>
+    <PackageReference Include="SpecFlow.NUnit" Version="3.9.74" />
   </ItemGroup>
   
 
